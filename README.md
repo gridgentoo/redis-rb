@@ -1,6 +1,30 @@
 # Original repository redis-rb
 https://github.com/redis/redis-rb  
 
+Отказоустойчивый Redis кластер. Александр Котыня  
+https://www.youtube.com/watch?v=3Lzr5x-blnA  
+
+Redis Кластер.  
+https://www.youtube.com/watch?v=whp7wmaxmyU  
+
+Ruby Redis DataBase Tutorial  
+https://www.youtube.com/watch?v=Z4wSEAGjUAQ  
+
+Ruby Redis CLI Commands  
+https://www.youtube.com/watch?v=Fv_oocTmWgE  
+
+Ruby Create List in Redis   
+https://www.youtube.com/watch?v=0jjE9Xaq_Ik  
+
+R Programming Connect to Redis Database  
+https://www.youtube.com/watch?v=RqPiiXGxOAo  
+
+Basic Redis With Java  
+https://www.youtube.com/watch?v=iC3SXRXUoPo  
+
+Александр Мочалыгин. Redis - это как memcache, только умеет сохранять на диск?  
+https://www.youtube.com/watch?v=KebkucRxUMU  
+ 
 # redis-rb [![Build Status][travis-image]][travis-link] [![Inline docs][inchpages-image]][inchpages-link]
 
 A Ruby client that tries to match [Redis][redis-home]' API one-to-one, while still
